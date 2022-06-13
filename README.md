@@ -2,6 +2,8 @@
 
 ## Практическое задание к занятию "Компоненты"
 
+This is a functional React component - simple calendar.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using [Moment.js](https://momentjs.com)
 
 ### In order to check the project, you can run
